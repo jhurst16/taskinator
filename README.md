@@ -9,8 +9,6 @@ A basic khanban board.
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
-* [License](#license)
-* [Documentation](#documentation)
 
 
 ## Installation
